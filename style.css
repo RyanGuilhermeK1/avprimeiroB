@@ -1,3 +1,14 @@
 body {
     background-color: rgb(113, 124, 124);
+font-size: 30px;
 }
+.botão {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition:background-color 0.3s ease;
+}
+    
+
