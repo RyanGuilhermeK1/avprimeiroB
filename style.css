@@ -16,7 +16,7 @@ font-size: 30px;
 .cabecalho{
     background-color: black;
     padding: 30px;
-    width: 200%;
+    width: 100%;
     border-style: groove;
     border-color: rgb(197, 42, 75);
 }
