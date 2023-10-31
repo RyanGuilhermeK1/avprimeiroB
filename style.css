@@ -13,5 +13,8 @@ font-size: 30px;
 .botão:hover {
     background-color: rgb(95, 95, 238);
 }
+.cabecalho{
+    background-color: black;
+}
     
 
