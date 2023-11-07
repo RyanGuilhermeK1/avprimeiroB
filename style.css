@@ -20,5 +20,9 @@ font-size: 30px;
     border-style: groove;
     border-color: rgb(197, 42, 75);
 }
+p {
+    color: black;
+    font-size: small;
+}
     
 
